@@ -1,0 +1,9 @@
+1. Teste unitário
+É quando você testa uma função isolada, sem depender de outras partes do sistema.
+
+2. Teste de integração
+É quando você testa várias partes juntas, como API + banco de dados.
+
+Principal ideia do TDD (Test Driven Development)
+Escrever o teste antes do código, seguindo o ciclo:
+escrever teste, ver falhar, criar código, ver passar, melhorar (refatorar)
